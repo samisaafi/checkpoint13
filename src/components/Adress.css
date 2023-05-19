@@ -1,3 +1,5 @@
+  // Styling for the div container
+
 div {
     background-color: #f9f9f9;
     padding: 10px;
@@ -5,7 +7,8 @@ div {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     text-align: center;
   }
-  
+    // Styling for the p element
+
   p {
     font-size: 18px;
     margin: 0;
